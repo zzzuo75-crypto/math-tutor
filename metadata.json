@@ -1,0 +1,10 @@
+{
+  "name": "台灣國三 AI 數學老師",
+  "description": "專為國中三年級學生設計的 AI 數學家教，透過照片精準辨識題目、引導思考與完整解題",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
